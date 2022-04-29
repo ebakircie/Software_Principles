@@ -30,3 +30,20 @@ Those Principles are;
 ![single-responsiblity](https://user-images.githubusercontent.com/77506856/165939664-2cbcca58-8a05-4fd0-955d-dc6a27a8a0be.jpg)
 
 Tells us that every class or function should only have one job to do. If we give more responsibilities than it should be, it will be effected more changes and bugs. System will be more understandable, less complex so new developers can adapt the project faster. Also it means less responsibilities easier integrations.
+
+# Open/Closed Principle 
+
+***Entities should be open for extension, but closed for modifications.*** This is the exact definition of OCP, it basicly says that Entities such as Business classes or Entity classes must be designed as you can extend them into sub pieces with the help of polymorphism but can't modify main/base classes. Which means it can gain new abilities without changing the behavior. It works really well with Single Responsibility Principle.
+
+# Liskov Substitution Principle
+
+This Principle defines we should be able to use the sub classes without any modification on behalf of main classes.
+Derived classes should behave same as the main classes but also they can contain its own unique abilities.
+
+
+
+
+
+
+ 
+
