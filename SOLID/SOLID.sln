@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.OCP", "2.OCP", "{446DCB6C-57B2-465F-B39D-7038EB963760}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.SRP", "1.SRP", "{61D048F8-6EBC-4D8E-B7E8-4084F854D863}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.LSP", "3.LSP", "{5F52A8A7-9FDD-42CC-AAE2-CDE5C17C3958}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.ISP", "4.ISP", "{A07F1A5D-2035-4564-B649-7015FC7B1EA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.DIP", "5.DIP", "{87A8E7F1-E518-4655-A6F6-2B001763BC4C}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8AA7A32-DB5A-41AB-B35E-CA2A3EAB88D6}
+	EndGlobalSection
+EndGlobal
