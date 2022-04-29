@@ -45,3 +45,10 @@ Derived classes should behave same as the main classes but also they can contain
 Tells that instead of having a bigger responsibilities in single interface we should divide them into smaller pieces. By doing that we will work with what we need otherwise it means we are adding unnecessary feature or method to the target class. 
 
 ***“Clients should not be forced to depend upon interfaces that they do not use.”***
+
+# Dependency Inversion Principle
+
+_It states that higher level modules should not depend on lower level modules, both should depend on abstraction.
+Abstractions should not depend on details, Details should depend upon abstractions._
+ 
+ 
