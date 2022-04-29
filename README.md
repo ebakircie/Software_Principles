@@ -35,17 +35,20 @@ Tells us that every class or function should only have one job to do. If we give
 # Open/Closed Principle 
 
 ***Entities should be open for extension, but closed for modifications.*** This is the exact definition of OCP, it basicly says that Entities such as Business classes or Entity classes must be designed as you can extend them into sub pieces with the help of polymorphism but can't modify main/base classes. Which means it can gain new abilities without changing the behavior. It works really well with Single Responsibility Principle.
+
 [Example](https://github.com/ebakircie/Software_Principles/tree/main/SOLID/SOLID/2.OCP)
 # Liskov Substitution Principle
 
 This Principle defines we should be able to use the sub classes without any modification on behalf of main classes.
 Derived classes should behave same as the main classes but also they can contain its own unique abilities.
+
 [Example](https://github.com/ebakircie/Software_Principles/tree/main/SOLID/SOLID/3.LSP)
 # Interface Segregation Principle
 
 Tells that instead of having a bigger responsibilities in single interface we should divide them into smaller pieces. By doing that we will work with what we need otherwise it means we are adding unnecessary feature or method to the target class. 
 
 ***“Clients should not be forced to depend upon interfaces that they do not use.”***
+
 [Example](https://github.com/ebakircie/Software_Principles/tree/main/SOLID/SOLID/4.ISP)
 # Dependency Inversion Principle
 
