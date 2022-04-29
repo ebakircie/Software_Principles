@@ -25,7 +25,7 @@ Those Principles are;
 - Interface Segregation Principle
 - Dependency Inversion Principle 
 
-# Single Responsibility Principle
+[# Single Responsibility Principle](https://github.com/ebakircie/Software_Principles/tree/main/SOLID/SOLID/1.SRP)
 
 ![single-responsiblity](https://user-images.githubusercontent.com/77506856/165939664-2cbcca58-8a05-4fd0-955d-dc6a27a8a0be.jpg)
 
