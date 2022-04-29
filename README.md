@@ -40,10 +40,6 @@ Tells us that every class or function should only have one job to do. If we give
 This Principle defines we should be able to use the sub classes without any modification on behalf of main classes.
 Derived classes should behave same as the main classes but also they can contain its own unique abilities.
 
+# Interface Segregation Principle
 
-
-
-
-
- 
-
+Tells that instead of having a bigger interfaces cut them smaller pieces so we wont forced to implement which we dont need.
