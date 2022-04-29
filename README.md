@@ -42,4 +42,6 @@ Derived classes should behave same as the main classes but also they can contain
 
 # Interface Segregation Principle
 
-Tells that instead of having a bigger interfaces cut them smaller pieces so we wont forced to implement which we dont need.
+Tells that instead of having a bigger responsibilities in single interface we should divide them into smaller pieces. By doing that we will work with what we need otherwise it means we are adding unnecessary feature or method to the target class. 
+
+***“Clients should not be forced to depend upon interfaces that they do not use.”***
