@@ -29,4 +29,4 @@ Those Principles are;
 
 ![single-responsiblity](https://user-images.githubusercontent.com/77506856/165939664-2cbcca58-8a05-4fd0-955d-dc6a27a8a0be.jpg)
 
-Tells us that every class or function should only have one job to do. If we give more responsibilities than it should be, it will be effected more changes and bugs. System will be more understandable, less complex so everyone can addapt the project faster. Also it means less responsibilities easier integrations.
+Tells us that every class or function should only have one job to do. If we give more responsibilities than it should be, it will be effected more changes and bugs. System will be more understandable, less complex so new developers can adapt the project faster. Also it means less responsibilities easier integrations.
