@@ -25,35 +25,28 @@ Those Principles are;
 - Interface Segregation Principle
 - Dependency Inversion Principle 
 
-# Single Responsibility Principle
-
-![single-responsiblity](https://user-images.githubusercontent.com/77506856/165939664-2cbcca58-8a05-4fd0-955d-dc6a27a8a0be.jpg)
+# [Single Responsibility Principle](https://github.com/ebakircie/Software_Principles/tree/main/SOLID/SOLID/1.SRP)
 
 Tells us that every class or function should only have one job to do. If we give more responsibilities than it should be, it will be effected more changes and bugs. System will be more understandable, less complex so new developers can adapt the project faster. Also it means less responsibilities easier integrations.
 
-[Example](https://github.com/ebakircie/Software_Principles/tree/main/SOLID/SOLID/1.SRP)
-
-# Open/Closed Principle 
+# [Open/Closed Principle](https://github.com/ebakircie/Software_Principles/tree/main/SOLID/SOLID/2.OCP)
 
 ***Entities should be open for extension, but closed for modifications.*** This is the exact definition of OCP, it basicly says that Entities such as Business classes or Entity classes must be designed as you can extend them into sub pieces with the help of polymorphism but can't modify main/base classes. Which means it can gain new abilities without changing the behavior. It works really well with Single Responsibility Principle.
 
-[Example](https://github.com/ebakircie/Software_Principles/tree/main/SOLID/SOLID/2.OCP)
-# Liskov Substitution Principle
+# [Liskov Substitution Principle](https://github.com/ebakircie/Software_Principles/tree/main/SOLID/SOLID/3.LSP)
 
 This Principle defines we should be able to use the sub classes without any modification on behalf of main classes.
 Derived classes should behave same as the main classes but also they can contain its own unique abilities.
 
-[Example](https://github.com/ebakircie/Software_Principles/tree/main/SOLID/SOLID/3.LSP)
-# Interface Segregation Principle
+# [Interface Segregation Principle](https://github.com/ebakircie/Software_Principles/tree/main/SOLID/SOLID/4.ISP)
 
 Tells that instead of having a bigger responsibilities in single interface we should divide them into smaller pieces. By doing that we will work with what we need otherwise it means we are adding unnecessary feature or method to the target class. 
 
 ***“Clients should not be forced to depend upon interfaces that they do not use.”***
 
-[Example](https://github.com/ebakircie/Software_Principles/tree/main/SOLID/SOLID/4.ISP)
-# Dependency Inversion Principle
+# [Dependency Inversion Principle](https://github.com/ebakircie/Software_Principles/tree/main/SOLID/SOLID/5.DIP)
 
 _It states that higher level modules should not depend on lower level modules, both should depend on abstraction.
 Abstractions should not depend on details, Details should depend upon abstractions._
  
- [Example](https://github.com/ebakircie/Software_Principles/tree/main/SOLID/SOLID/5.DIP)
+ 
