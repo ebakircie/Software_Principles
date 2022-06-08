@@ -17,7 +17,7 @@ Why would you add a feature or functionality that you don't need right now but y
 
 # SOLID
 
-SOLID is acronym for 5 deisgn pattern that helps the software to be more flexible and maintainable as how Software Principles should be.
+SOLID is acronym for 5 deisgn patterns that helps the software to be more flexible and maintainable as how Software Principles should be.
 Those Principles are;
 - Single Responsibility Principle
 - Open Closed Principle
